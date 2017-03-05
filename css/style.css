@@ -1,0 +1,22 @@
+.first-task{
+	border:1px solid grey;
+}
+.first-task > div{
+	display:inline-block;
+	background-color:grey;
+	padding:10px;
+}
+.second-task, .third-task, .forth-task, .fifth-task{
+	border:1px solid grey;
+	margin-top:20px;
+}
+
+.second-task a{
+	display:inline-block;
+	padding:10px;
+	font-size:16px;
+}
+
+.forth-task > div{
+	border:1px solid red;
+}
